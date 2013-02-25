@@ -1,0 +1,4 @@
+checkersLite
+============
+
+Simple checkers game
